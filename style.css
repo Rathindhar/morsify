@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: white;
+  text-align: center;
+  padding: 40px;
+}
+
+textarea {
+  width: 80%;
+  height: 100px;
+  margin: 10px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
